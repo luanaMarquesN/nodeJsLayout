@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nodeJs</string>
+    <string name="msg_inicio"><font color="white">Welcome to</font> <font color="green">NodeJs
+    </font> <font color="white">Learners!\nLet’s get</font> <font color="green">started</font><font color="white">!</font></string>
+    <string name="msg_login"><font color="white">Don’t have an account?</font> <font color="green">Sign In</font></string>
+    <string name="msg_signin"><font color="white">Already have an account? </font> <font color="green">Login</font></string>
+</resources>
